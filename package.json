@@ -1,0 +1,14 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "Command-line argument processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Rishab Manocha",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
